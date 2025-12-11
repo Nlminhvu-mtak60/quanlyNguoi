@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="QLY_NGUOI/QLY_NGUOI.vcxproj" Id="3e900da8-a70e-4ad0-aa04-47498c4c2209" />
+ 
+
 
